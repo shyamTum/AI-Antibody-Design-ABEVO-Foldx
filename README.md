@@ -265,8 +265,7 @@ python app_abevo_foldx_interface.py
 
 ### Mapping Details
 
-<img width="1760" height="1010" alt="image" src="https://github.com/user-attachments/assets/f97c5401-8428-44e4-b348-1208107c911d" />
-
+<img width="1760" height="1010" alt="image" src="https://github.com/user-attachments/assets/cf4156ec-7528-4a42-98ce-eda03ba1f5ad" />
 
 ### Structure Visualization
 

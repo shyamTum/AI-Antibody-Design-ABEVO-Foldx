@@ -255,23 +255,39 @@ python app_abevo_foldx_interface.py
 
 ### Main Dashboard
 
-![Dashboard](images/dashboard.png)
+<img width="1760" height="1010" alt="image" src="https://github.com/user-attachments/assets/6f9710bd-78f8-4e10-81ed-f1c0c4cb0346" />
+
 
 ### Ranked Mutation Candidates
 
-![Ranked Candidates](images/ranked_candidates.png)
+<img width="1760" height="1010" alt="image" src="https://github.com/user-attachments/assets/28082062-29b8-40ed-9042-86d91749b0e7" />
+
+
+### Mapping Details
+
+<img width="1760" height="1010" alt="image" src="https://github.com/user-attachments/assets/f97c5401-8428-44e4-b348-1208107c911d" />
+
 
 ### Structure Visualization
 
-![Structure](images/structure_visualization.png)
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/6f7928c6-fbd1-4369-841a-8e56d1f4e4e8" />
+
+### Zoomed Mutation
+
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/4705ec27-2e81-47b8-859b-941c9466c998" />
 
 ### Interface Residues
 
 ![Interface](images/interface_residues.png)
 
+### Nearest Residues From A Particular Mutation
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/e86b7408-b206-4112-ae73-a0df55e8d8f9" />
+
 ### ABEVO vs FoldX Plot
 
-![Plot](images/mutation_plot.png)
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/1b31b828-9020-44ce-b8a4-774fdb5cc325" />
+
 
 ---
 
